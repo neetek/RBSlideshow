@@ -6,7 +6,7 @@ Behaviour:
 
 This full screen slideshow uploads only 3 images at the beginning and 1 at a time (when changing the slide), so the web developer can put all the images he wants for the slideshow and the page weight will still be always light.
 
-It automatically generates clickable bullets to switch from one slide to another with the possibility as well to use the left and right arrow keys to achieve that.
+It automatically generates clickable bullets to switch from one slide to another with as well the possibility to use left / right arrow key to achieve that.
 
 It adapts on all screen size.
 
