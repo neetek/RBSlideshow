@@ -50,7 +50,7 @@ function nextSlide() {
 			animateToCurrent();
 			assignNextPrevSlides();
 
-		}, durationAnimation + 10);
+		}, durationAnimation);
 
 	}
 
