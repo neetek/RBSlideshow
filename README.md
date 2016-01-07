@@ -9,3 +9,5 @@ This full-screen Slideshow uploads only 3 images at the beginning and 1 at a tim
 It automatically genereates clickable bullets to switch from one slide to another with the possibility as well to use the left and right arrow keys to achieve that.
 
 It adapts on all screen size.
+
+--> Watch the demo: http://renart.ws/myworks/RBSlideshow/demo.html
