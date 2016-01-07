@@ -1,10 +1,10 @@
 # RBSlideshow - by Renato Bannò © 2015
-A responsive full-screen Slideshow developed in jQuery that reduces the page weight by uploading dinamically only the images (and the captions) required.
+A responsive full screen slideshow developed in jQuery that reduces the page weight by uploading dinamically only the images (and the captions) required.
 
 
 Behaviour:
 
-This full-screen Slideshow uploads only 3 images at the beginning and 1 at a time (when changing the slide), so the web developer can put all the images he wants for the slideshow and the page weight will still be always light.
+This full screen slideshow uploads only 3 images at the beginning and 1 at a time (when changing the slide), so the web developer can put all the images he wants for the slideshow and the page weight will still be always light.
 
 It automatically genereates clickable bullets to switch from one slide to another with the possibility as well to use the left and right arrow keys to achieve that.
 
